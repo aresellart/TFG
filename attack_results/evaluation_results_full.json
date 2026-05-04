@@ -1,0 +1,1490 @@
+{
+  "0": {
+    "1": {
+      "success_rate": 63.0,
+      "successes": 315,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 92.0,
+      "successes": 460,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 64.83516483516483,
+      "successes": 177,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 20.0,
+      "successes": 100,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 70.6,
+      "successes": 353,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 87.05035971223022,
+      "successes": 121,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 80.60000000000001,
+      "successes": 403,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 81.0,
+      "successes": 405,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 56.599999999999994,
+      "successes": 283,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 44.6,
+      "successes": 223,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 32.800000000000004,
+      "successes": 164,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 71.8,
+      "successes": 359,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 56.00000000000001,
+      "successes": 280,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 64.63414634146342,
+      "successes": 318,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 65.20379895477963
+  },
+  "1": {
+    "0": {
+      "success_rate": 91.4,
+      "successes": 457,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "2": {
+      "success_rate": 51.4,
+      "successes": 257,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 71.06227106227107,
+      "successes": 194,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 22.0,
+      "successes": 110,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 57.99999999999999,
+      "successes": 290,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 82.01438848920863,
+      "successes": 114,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 66.4,
+      "successes": 332,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 55.00000000000001,
+      "successes": 275,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 27.400000000000002,
+      "successes": 137,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 60.8,
+      "successes": 304,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 77.60000000000001,
+      "successes": 388,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 77.2,
+      "successes": 386,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 77.4,
+      "successes": 387,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 85.77235772357723,
+      "successes": 422,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 66.39908871385951
+  },
+  "2": {
+    "0": {
+      "success_rate": 86.6,
+      "successes": 433,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 54.800000000000004,
+      "successes": 274,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "3": {
+      "success_rate": 74.35897435897436,
+      "successes": 203,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 23.799999999999997,
+      "successes": 119,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 84.39999999999999,
+      "successes": 422,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 61.87050359712231,
+      "successes": 86,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 77.2,
+      "successes": 386,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 87.2,
+      "successes": 436,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 11.200000000000001,
+      "successes": 56,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 62.2,
+      "successes": 311,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 58.4,
+      "successes": 292,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 79.80000000000001,
+      "successes": 399,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 43.4,
+      "successes": 217,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 79.1044776119403,
+      "successes": 106,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 81.30081300813008,
+      "successes": 400,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 64.37565123841114
+  },
+  "3": {
+    "0": {
+      "success_rate": 88.4,
+      "successes": 442,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 66.4,
+      "successes": 332,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 92.60000000000001,
+      "successes": 463,
+      "total": 500,
+      "src_class": "email"
+    },
+    "4": {
+      "success_rate": 15.8,
+      "successes": 79,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 75.2,
+      "successes": 376,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 75.53956834532374,
+      "successes": 105,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 83.39999999999999,
+      "successes": 417,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 85.0,
+      "successes": 425,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 38.0,
+      "successes": 190,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 63.6,
+      "successes": 318,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 53.800000000000004,
+      "successes": 269,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 74.6,
+      "successes": 373,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 78.8,
+      "successes": 394,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 78.35820895522389,
+      "successes": 105,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 78.2520325203252,
+      "successes": 385,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 69.84998732139152
+  },
+  "4": {
+    "0": {
+      "success_rate": 99.6,
+      "successes": 498,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 98.6,
+      "successes": 493,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 99.4,
+      "successes": 497,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 82.41758241758241,
+      "successes": 225,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "5": {
+      "success_rate": 99.6,
+      "successes": 498,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 100.0,
+      "successes": 139,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 99.8,
+      "successes": 499,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 100.0,
+      "successes": 500,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 98.6,
+      "successes": 493,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 94.6,
+      "successes": 473,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 96.2,
+      "successes": 481,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 98.4,
+      "successes": 492,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 97.2,
+      "successes": 486,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 98.57723577235772,
+      "successes": 485,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 97.53298787932934
+  },
+  "5": {
+    "0": {
+      "success_rate": 67.2,
+      "successes": 336,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 59.0,
+      "successes": 295,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 75.6,
+      "successes": 378,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 54.94505494505495,
+      "successes": 150,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 20.0,
+      "successes": 100,
+      "total": 500,
+      "src_class": "form"
+    },
+    "6": {
+      "success_rate": 61.15107913669065,
+      "successes": 85,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 56.599999999999994,
+      "successes": 283,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 83.8,
+      "successes": 419,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 43.2,
+      "successes": 216,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 67.80000000000001,
+      "successes": 339,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 50.0,
+      "successes": 250,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 73.2,
+      "successes": 366,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 65.4,
+      "successes": 327,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 68.65671641791045,
+      "successes": 92,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 58.536585365853654,
+      "successes": 288,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 60.339295724367304
+  },
+  "6": {
+    "0": {
+      "success_rate": 86.8,
+      "successes": 434,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 47.0,
+      "successes": 235,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 60.0,
+      "successes": 300,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 79.48717948717949,
+      "successes": 217,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 18.6,
+      "successes": 93,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 86.0,
+      "successes": 430,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "7": {
+      "success_rate": 85.6,
+      "successes": 428,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 93.8,
+      "successes": 469,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 74.8,
+      "successes": 374,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 59.0,
+      "successes": 295,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 48.6,
+      "successes": 243,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 89.2,
+      "successes": 446,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 65.2,
+      "successes": 326,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 62.19512195121951,
+      "successes": 306,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 70.2198151207689
+  },
+  "7": {
+    "0": {
+      "success_rate": 80.0,
+      "successes": 400,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 80.80000000000001,
+      "successes": 404,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 66.0,
+      "successes": 330,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 45.42124542124542,
+      "successes": 124,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 20.599999999999998,
+      "successes": 103,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 77.0,
+      "successes": 385,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 87.05035971223022,
+      "successes": 121,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "8": {
+      "success_rate": 56.8,
+      "successes": 284,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 34.2,
+      "successes": 171,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 57.99999999999999,
+      "successes": 290,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 71.2,
+      "successes": 356,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 58.4,
+      "successes": 292,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 82.0,
+      "successes": 410,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 60.77235772357723,
+      "successes": 299,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 65.01725921534582
+  },
+  "8": {
+    "0": {
+      "success_rate": 94.8,
+      "successes": 474,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 97.2,
+      "successes": 486,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 99.4,
+      "successes": 497,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 95.23809523809523,
+      "successes": 260,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 56.2,
+      "successes": 281,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 99.0,
+      "successes": 495,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 99.28057553956835,
+      "successes": 138,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 97.39999999999999,
+      "successes": 487,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "9": {
+      "success_rate": 94.39999999999999,
+      "successes": 472,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 97.39999999999999,
+      "successes": 487,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 97.0,
+      "successes": 485,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 98.0,
+      "successes": 490,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 98.6,
+      "successes": 493,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 99.1869918699187,
+      "successes": 488,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 94.87371084317215
+  },
+  "9": {
+    "0": {
+      "success_rate": 54.800000000000004,
+      "successes": 274,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 62.4,
+      "successes": 312,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 26.8,
+      "successes": 134,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 57.509157509157504,
+      "successes": 157,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 17.4,
+      "successes": 87,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 62.0,
+      "successes": 310,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 82.01438848920863,
+      "successes": 114,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 87.4,
+      "successes": 437,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 70.8,
+      "successes": 354,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "10": {
+      "success_rate": 38.6,
+      "successes": 193,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 41.0,
+      "successes": 205,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 61.4,
+      "successes": 307,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 56.39999999999999,
+      "successes": 282,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 83.5820895522388,
+      "successes": 112,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 50.20325203252033,
+      "successes": 247,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 56.820592505541676
+  },
+  "10": {
+    "0": {
+      "success_rate": 97.0,
+      "successes": 485,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 90.0,
+      "successes": 450,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 98.6,
+      "successes": 493,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 94.13919413919413,
+      "successes": 257,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 76.0,
+      "successes": 380,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 96.8,
+      "successes": 484,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 96.40287769784173,
+      "successes": 134,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 98.4,
+      "successes": 492,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 97.6,
+      "successes": 488,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 91.0,
+      "successes": 455,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "11": {
+      "success_rate": 93.2,
+      "successes": 466,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 99.4,
+      "successes": 497,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 97.6,
+      "successes": 488,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 93.08943089430895,
+      "successes": 458,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 94.61543351542299
+  },
+  "11": {
+    "0": {
+      "success_rate": 92.2,
+      "successes": 461,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 91.0,
+      "successes": 455,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 89.8,
+      "successes": 449,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 64.83516483516483,
+      "successes": 177,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 37.0,
+      "successes": 185,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 86.0,
+      "successes": 430,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 92.80575539568345,
+      "successes": 129,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 96.0,
+      "successes": 480,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 91.2,
+      "successes": 456,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 64.2,
+      "successes": 321,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 75.4,
+      "successes": 377,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "12": {
+      "success_rate": 90.60000000000001,
+      "successes": 453,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 77.2,
+      "successes": 386,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 93.4959349593496,
+      "successes": 460,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 82.78245701267987
+  },
+  "12": {
+    "0": {
+      "success_rate": 56.39999999999999,
+      "successes": 282,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 62.2,
+      "successes": 311,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 39.0,
+      "successes": 195,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 54.57875457875458,
+      "successes": 149,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 28.000000000000004,
+      "successes": 140,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 73.8,
+      "successes": 369,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 76.2589928057554,
+      "successes": 106,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 65.60000000000001,
+      "successes": 328,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 80.60000000000001,
+      "successes": 403,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 43.4,
+      "successes": 217,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 53.800000000000004,
+      "successes": 269,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 64.2,
+      "successes": 321,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "13": {
+      "success_rate": 60.199999999999996,
+      "successes": 301,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 79.8507462686567,
+      "successes": 107,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 64.83739837398373,
+      "successes": 319,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 60.181726135143364
+  },
+  "13": {
+    "0": {
+      "success_rate": 97.6,
+      "successes": 488,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 93.8,
+      "successes": 469,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 98.0,
+      "successes": 490,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 87.54578754578755,
+      "successes": 239,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 19.400000000000002,
+      "successes": 97,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 86.0,
+      "successes": 430,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 89.20863309352518,
+      "successes": 124,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 94.6,
+      "successes": 473,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 74.8,
+      "successes": 374,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 56.99999999999999,
+      "successes": 285,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 81.39999999999999,
+      "successes": 407,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 72.6,
+      "successes": 363,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 67.80000000000001,
+      "successes": 339,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "14": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "15": {
+      "success_rate": 87.60162601626016,
+      "successes": 431,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 80.44065186659041
+  },
+  "14": {
+    "0": {
+      "success_rate": 0.4,
+      "successes": 2,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 0.2,
+      "successes": 1,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 0.8,
+      "successes": 4,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 0.3663003663003663,
+      "successes": 1,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 0.2,
+      "successes": 1,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 0.8,
+      "successes": 4,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 0.0,
+      "successes": 0,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 0.8,
+      "successes": 4,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 2.4,
+      "successes": 12,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 0.2,
+      "successes": 1,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 0.8,
+      "successes": 4,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 0.2,
+      "successes": 1,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 5.4,
+      "successes": 27,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 0.0,
+      "successes": 0,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "15": {
+      "success_rate": 0.20325203252032523,
+      "successes": 1,
+      "total": 492,
+      "src_class": "specification"
+    },
+    "average": 0.8513034932547129
+  },
+  "15": {
+    "0": {
+      "success_rate": 85.39999999999999,
+      "successes": 427,
+      "total": 500,
+      "src_class": "letter"
+    },
+    "1": {
+      "success_rate": 93.4,
+      "successes": 467,
+      "total": 500,
+      "src_class": "memo"
+    },
+    "2": {
+      "success_rate": 97.8,
+      "successes": 489,
+      "total": 500,
+      "src_class": "email"
+    },
+    "3": {
+      "success_rate": 86.08058608058609,
+      "successes": 235,
+      "total": 273,
+      "src_class": "filefolder"
+    },
+    "4": {
+      "success_rate": 33.0,
+      "successes": 165,
+      "total": 500,
+      "src_class": "form"
+    },
+    "5": {
+      "success_rate": 91.0,
+      "successes": 455,
+      "total": 500,
+      "src_class": "handwritten"
+    },
+    "6": {
+      "success_rate": 94.96402877697841,
+      "successes": 132,
+      "total": 139,
+      "src_class": "invoice"
+    },
+    "7": {
+      "success_rate": 88.8,
+      "successes": 444,
+      "total": 500,
+      "src_class": "advertisement"
+    },
+    "8": {
+      "success_rate": 95.6,
+      "successes": 478,
+      "total": 500,
+      "src_class": "budget"
+    },
+    "9": {
+      "success_rate": 65.8,
+      "successes": 329,
+      "total": 500,
+      "src_class": "news article"
+    },
+    "10": {
+      "success_rate": 87.0,
+      "successes": 435,
+      "total": 500,
+      "src_class": "presentation"
+    },
+    "11": {
+      "success_rate": 63.6,
+      "successes": 318,
+      "total": 500,
+      "src_class": "scientific publication"
+    },
+    "12": {
+      "success_rate": 89.60000000000001,
+      "successes": 448,
+      "total": 500,
+      "src_class": "questionnaire"
+    },
+    "13": {
+      "success_rate": 92.0,
+      "successes": 460,
+      "total": 500,
+      "src_class": "resume"
+    },
+    "14": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134,
+      "src_class": "scientific report"
+    },
+    "average": 84.21988974672321
+  }
+}

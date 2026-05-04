@@ -1,0 +1,1250 @@
+{
+  "0": {
+    "1": {
+      "success_rate": 89.55223880597015,
+      "successes": 120,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 79.8507462686567,
+      "successes": 107,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 42.53731343283582,
+      "successes": 57,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 73.88059701492537,
+      "successes": 99,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 75.3731343283582,
+      "successes": 101,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 76.11940298507463,
+      "successes": 102,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 96.26865671641791,
+      "successes": 129,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 82.08955223880598,
+      "successes": 110,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 82.83582089552239,
+      "successes": 111,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "average": 85.07462686567165
+  },
+  "1": {
+    "0": {
+      "success_rate": 88.05970149253731,
+      "successes": 118,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 94.77611940298507,
+      "successes": 127,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 88.80597014925374,
+      "successes": 119,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 33.582089552238806,
+      "successes": 45,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 80.59701492537313,
+      "successes": 108,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 90.29850746268657,
+      "successes": 121,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 87.31343283582089,
+      "successes": 117,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 47.01492537313433,
+      "successes": 63,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 90.29850746268657,
+      "successes": 121,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 76.11940298507463,
+      "successes": 102,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 84.32835820895522,
+      "successes": 113,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "average": 83.08457711442786
+  },
+  "2": {
+    "0": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 44.02985074626866,
+      "successes": 59,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 96.26865671641791,
+      "successes": 129,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 64.17910447761194,
+      "successes": 86,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 96.26865671641791,
+      "successes": 129,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 91.04477611940298,
+      "successes": 122,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 94.02985074626866,
+      "successes": 126,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "average": 91.14427860696517
+  },
+  "3": {
+    "0": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 54.47761194029851,
+      "successes": 73,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 80.59701492537313,
+      "successes": 108,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "average": 94.77611940298507
+  },
+  "4": {
+    "0": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 93.28358208955224,
+      "successes": 125,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 84.32835820895522,
+      "successes": 113,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 81.34328358208955,
+      "successes": 109,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 93.28358208955224,
+      "successes": 125,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 96.26865671641791,
+      "successes": 129,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 85.82089552238806,
+      "successes": 115,
+      "total": 134
+    },
+    "average": 94.27860696517412
+  },
+  "5": {
+    "0": {
+      "success_rate": 60.447761194029844,
+      "successes": 81,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 58.2089552238806,
+      "successes": 78,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 65.67164179104478,
+      "successes": 88,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 67.16417910447761,
+      "successes": 90,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 15.671641791044777,
+      "successes": 21,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 80.59701492537313,
+      "successes": 108,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 78.35820895522389,
+      "successes": 105,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 88.05970149253731,
+      "successes": 118,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 24.62686567164179,
+      "successes": 33,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 74.6268656716418,
+      "successes": 100,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 74.6268656716418,
+      "successes": 100,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 71.64179104477611,
+      "successes": 96,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 60.447761194029844,
+      "successes": 81,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 94.02985074626866,
+      "successes": 126,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 54.47761194029851,
+      "successes": 73,
+      "total": 134
+    },
+    "average": 64.5771144278607
+  },
+  "6": {
+    "0": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 82.83582089552239,
+      "successes": 111,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 89.55223880597015,
+      "successes": 120,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "average": 97.01492537313433
+  },
+  "7": {
+    "0": {
+      "success_rate": 84.32835820895522,
+      "successes": 113,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 83.5820895522388,
+      "successes": 112,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 85.07462686567165,
+      "successes": 114,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 76.11940298507463,
+      "successes": 102,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 38.059701492537314,
+      "successes": 51,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 75.3731343283582,
+      "successes": 101,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 94.77611940298507,
+      "successes": 127,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 68.65671641791045,
+      "successes": 92,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 94.02985074626866,
+      "successes": 126,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 83.5820895522388,
+      "successes": 112,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 76.86567164179104,
+      "successes": 103,
+      "total": 134
+    },
+    "average": 82.5870646766169
+  },
+  "8": {
+    "0": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 94.77611940298507,
+      "successes": 127,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 83.5820895522388,
+      "successes": 112,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 26.865671641791046,
+      "successes": 36,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 94.77611940298507,
+      "successes": 127,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 75.3731343283582,
+      "successes": 101,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 91.04477611940298,
+      "successes": 122,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 86.56716417910447,
+      "successes": 116,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "average": 88.2587064676617
+  },
+  "9": {
+    "0": {
+      "success_rate": 52.98507462686567,
+      "successes": 71,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 31.343283582089555,
+      "successes": 42,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 45.52238805970149,
+      "successes": 61,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 42.53731343283582,
+      "successes": 57,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 11.940298507462686,
+      "successes": 16,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 44.02985074626866,
+      "successes": 59,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 76.86567164179104,
+      "successes": 103,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 60.447761194029844,
+      "successes": 81,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 58.95522388059702,
+      "successes": 79,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 18.65671641791045,
+      "successes": 25,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 17.91044776119403,
+      "successes": 24,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 58.2089552238806,
+      "successes": 78,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 30.597014925373134,
+      "successes": 41,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 70.1492537313433,
+      "successes": 94,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 41.7910447761194,
+      "successes": 56,
+      "total": 134
+    },
+    "average": 44.12935323383085
+  },
+  "10": {
+    "0": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 85.82089552238806,
+      "successes": 115,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "average": 97.46268656716418
+  },
+  "11": {
+    "0": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 83.5820895522388,
+      "successes": 112,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 91.04477611940298,
+      "successes": 122,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 85.07462686567165,
+      "successes": 114,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "average": 96.36815920398008
+  },
+  "12": {
+    "0": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 96.26865671641791,
+      "successes": 129,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 57.46268656716418,
+      "successes": 77,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 81.34328358208955,
+      "successes": 109,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 96.26865671641791,
+      "successes": 129,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 94.77611940298507,
+      "successes": 127,
+      "total": 134
+    },
+    "average": 94.07960199004975
+  },
+  "13": {
+    "0": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 89.55223880597015,
+      "successes": 120,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 34.32835820895522,
+      "successes": 46,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 41.04477611940299,
+      "successes": 55,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 81.34328358208955,
+      "successes": 109,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 93.28358208955224,
+      "successes": 125,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 84.32835820895522,
+      "successes": 113,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 47.76119402985074,
+      "successes": 64,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 67.16417910447761,
+      "successes": 90,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 81.34328358208955,
+      "successes": 109,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 73.13432835820896,
+      "successes": 98,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 86.56716417910447,
+      "successes": 116,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 61.940298507462686,
+      "successes": 83,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 82.83582089552239,
+      "successes": 111,
+      "total": 134
+    },
+    "average": 74.12935323383086
+  },
+  "14": {
+    "0": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 89.55223880597015,
+      "successes": 120,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 47.01492537313433,
+      "successes": 63,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 91.7910447761194,
+      "successes": 123,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 88.05970149253731,
+      "successes": 118,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 90.29850746268657,
+      "successes": 121,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 91.04477611940298,
+      "successes": 122,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "15": {
+      "success_rate": 97.76119402985076,
+      "successes": 131,
+      "total": 134
+    },
+    "average": 91.94029850746269
+  },
+  "15": {
+    "0": {
+      "success_rate": 95.52238805970148,
+      "successes": 128,
+      "total": 134
+    },
+    "1": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "2": {
+      "success_rate": 98.50746268656717,
+      "successes": 132,
+      "total": 134
+    },
+    "3": {
+      "success_rate": 82.08955223880598,
+      "successes": 110,
+      "total": 134
+    },
+    "4": {
+      "success_rate": 50.0,
+      "successes": 67,
+      "total": 134
+    },
+    "5": {
+      "success_rate": 97.01492537313433,
+      "successes": 130,
+      "total": 134
+    },
+    "6": {
+      "success_rate": 99.25373134328358,
+      "successes": 133,
+      "total": 134
+    },
+    "7": {
+      "success_rate": 87.31343283582089,
+      "successes": 117,
+      "total": 134
+    },
+    "8": {
+      "success_rate": 93.28358208955224,
+      "successes": 125,
+      "total": 134
+    },
+    "9": {
+      "success_rate": 86.56716417910447,
+      "successes": 116,
+      "total": 134
+    },
+    "10": {
+      "success_rate": 83.5820895522388,
+      "successes": 112,
+      "total": 134
+    },
+    "11": {
+      "success_rate": 89.55223880597015,
+      "successes": 120,
+      "total": 134
+    },
+    "12": {
+      "success_rate": 94.02985074626866,
+      "successes": 126,
+      "total": 134
+    },
+    "13": {
+      "success_rate": 92.53731343283582,
+      "successes": 124,
+      "total": 134
+    },
+    "14": {
+      "success_rate": 100.0,
+      "successes": 134,
+      "total": 134
+    },
+    "average": 89.75124378109452
+  }
+}

@@ -1,0 +1,7 @@
+wandb/
+__pycache__/
+*.log
+*.pt
+*.png
+datasets_local/
+rvl_cdip_full/
