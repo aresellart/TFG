@@ -1,0 +1,21 @@
+{
+  "per_class": {
+    "letter": 98.08955223880596,
+    "memo": 97.43283582089552,
+    "email": 99.73134328358209,
+    "filefolder": 99.363184079602,
+    "form": 99.5820895522388,
+    "handwritten": 98.13930348258707,
+    "invoice": 97.1044776119403,
+    "advertisement": 98.98507462686567,
+    "budget": 97.93034825870646,
+    "news article": 99.54228855721394,
+    "presentation": 99.61194029850746,
+    "scientific publication": 98.88557213930348,
+    "questionnaire": 99.23383084577114,
+    "resume": 99.9402985074627,
+    "scientific report": 80.51741293532339,
+    "specification": 98.96517412935324
+  },
+  "overall": 97.69092039800995
+}

@@ -4,6 +4,7 @@ from torch.nn import functional as F
 from typing import List
 from .base_vae import BaseVAE
 
+#IDEA: ADD RESIDUAL BLOCKS TO IMPROVE RECONSTRUCTION QUALITY (ESPECIALLY FOR HIGH-KL MODELS)
 
 # ── Residual block ─────────────────────────────────────────────────────────────
 class ResBlock(nn.Module):
@@ -15,11 +16,12 @@ class ResBlock(nn.Module):
             nn.LeakyReLU(0.2, inplace=True),
             nn.Conv2d(channels, channels, kernel_size=3, padding=1, bias=False),
             nn.BatchNorm2d(channels),
+            #note: no activation here bc it has to be appplied after the skip connection
         )
         self.act = nn.LeakyReLU(0.2, inplace=True)
 
     def forward(self, x):
-        return self.act(x + self.block(x))
+        return self.act(x + self.block(x)) #residual connection: output = input + F(input) where F is the block of convs. this allows the block to learn a residual function (the difference between input and output) which is often easier to optimize and helps with gradient flow 
 
 
 class VanillaVAE(BaseVAE):
@@ -34,7 +36,7 @@ class VanillaVAE(BaseVAE):
         self.latent_dim  = latent_dim
         self.hidden_dims = list(hidden_dims) if hidden_dims else [32, 64, 128, 256, 512, 512]
 
-        # ── Encoder ──────────────────────────────────────────────────────────
+        #ENCODER --------------------------------------------------  
         modules = []
         ch = in_channels
         for h_dim in self.hidden_dims:
@@ -52,7 +54,7 @@ class VanillaVAE(BaseVAE):
         self.fc_mu  = nn.Linear(self._flat, latent_dim)
         self.fc_var = nn.Linear(self._flat, latent_dim)
 
-        # ── Decoder ──────────────────────────────────────────────────────────
+        #DECODER --------------------------------------------------  
         self.decoder_input = nn.Linear(latent_dim, self._flat)
 
         dec_dims = list(reversed(self.hidden_dims))
@@ -78,7 +80,7 @@ class VanillaVAE(BaseVAE):
             nn.Sigmoid(),
         )
 
-    # ── Forward ───────────────────────────────────────────────────────────────
+    # FORDWARD PASSES --------------------------------------------------
     def encode(self, x):
         h = self.encoder(x)
         h = torch.flatten(h, start_dim=1)
@@ -100,7 +102,7 @@ class VanillaVAE(BaseVAE):
         z = self.reparameterize(mu, log_var)
         return [self.decode(z), x, mu, log_var]
 
-    # ── Loss ──────────────────────────────────────────────────────────────────
+    # LOSS ---------------------------------------------------
     def loss_function(self, *args, **kwargs) -> dict:
         recon, x, mu, log_var = args[0], args[1], args[2], args[3]
         kld_weight = kwargs.get('M_N', 1.0)

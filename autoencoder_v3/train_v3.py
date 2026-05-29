@@ -44,16 +44,17 @@ def main():
         image_size=IMAGE_SIZE, num_workers=0,
     )
 
-    # ── Models ────────────────────────────────────────────────────────────────
+    # MODELS --------------------------------------------------
     vae  = VanillaVAE(in_channels=1, latent_dim=LATENT_DIM).to(device)
     disc = Discriminator(in_channels=1).to(device)
 
-    # ── Optimizers ────────────────────────────────────────────────────────────
+    #OPTIMIZERS --------------------------------------------------
     opt_vae  = optim.Adam(vae.parameters(),  lr=LR_VAE,  betas=(0.5, 0.999))
     opt_disc = optim.Adam(disc.parameters(), lr=LR_DISC, betas=(0.5, 0.999))
 
-    best_vae_loss = float("inf")
+    best_vae_loss = float("inf") #we'll save the best model based on the lowest VAE loss (reconstruction + KL) during training
 
+    # TRAINING LOOP --------------------------------------------------
     for epoch in range(1, EPOCHS + 1):
         vae.train()
         disc.train()
