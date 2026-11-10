@@ -1,0 +1,11 @@
+# Derived from the imports in the code (unpinned: versions on the GPU server unknown).
+torch
+torchvision
+transformers   # models/model_resnet50.py: ResNetModel.from_pretrained('microsoft/resnet-50')
+datasets       # HuggingFace datasets: load_from_disk(rvl_cdip_full)
+wandb          # Phase 1 training logs
+tqdm
+matplotlib
+numpy
+scipy          # figures/plot_*.py
+Pillow
