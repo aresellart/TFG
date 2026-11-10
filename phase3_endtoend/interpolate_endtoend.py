@@ -13,7 +13,7 @@ If the latent space is organized → smooth visual transition between stamps
 If completely random → abrupt changes or nonsensical intermediates
 
 Usage:
-    python3 endtoend/interpolate_endtoend.py
+    python3 phase3_endtoend/interpolate_endtoend.py
 """
 
 import sys, os
@@ -27,7 +27,7 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 
 from models.vanilla_vae_v2 import VanillaVAE
-from endtoend.config_endtoend import (
+from phase3_endtoend.config_endtoend import (
     LATENT_DIM, RESULTS_DIR, CLASSES
 )
 

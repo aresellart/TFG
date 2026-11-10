@@ -1,8 +1,8 @@
 import torch
 import matplotlib.pyplot as plt
 from models.vanilla_vae import VanillaVAE
-from datasets.stamps_dataset import get_dataloader
-import tfg_stamps.autoencoder.config as config
+from common.stamps_dataset import get_dataloader
+import phase1_generative.lowkl_vae.config as config
 
 
 device = torch.device("cpu")

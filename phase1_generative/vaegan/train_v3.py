@@ -1,5 +1,5 @@
 import sys, os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 import torch
 import torch.nn.functional as F
@@ -9,7 +9,7 @@ import wandb
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator import Discriminator
 from common.stamps_dataset import get_dataloader
-from autoencoder_v3.config_v3 import (
+from phase1_generative.vaegan.config_v3 import (
     DATA_PATH, BATCH_SIZE, LATENT_DIM, IMAGE_SIZE,
     LR_VAE, LR_DISC, EPOCHS,
     KLD_MAX_WEIGHT, KLD_ANNEAL_EPOCHS,

@@ -11,7 +11,7 @@ Generators: attack_results_endtoend/ (trained with fixed bottom-right)
 The 64x64 result should match the original 97.7% — use it as a sanity check.
 
 Usage:
-    python3 endtoend/ablation_size.py
+    python3 ablations/ablation_size.py
 """
 
 import sys, os
@@ -25,8 +25,8 @@ import torchvision.transforms.functional as TF
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.model_resnet50 import Model
-from attack.patch_utils import preprocess_document
-from endtoend.config_endtoend import (
+from common.patch_utils import preprocess_document
+from phase3_endtoend.config_endtoend import (
     ROOT, DATASET_PATH, CORRECT_JSON,
     VAE_PATH, RESNET_PATH, RESULTS_DIR,
     LATENT_DIM, CLASSES

@@ -8,7 +8,7 @@ different z vectors now produce VISUALLY DIFFERENT stamps.
 
 Usage:
     cd /home/asellart/tfg_stamps
-    python3 endtoend/check_diversity.py
+    python3 explorations/check_diversity.py
 """
 
 import sys, os
@@ -18,7 +18,7 @@ import torch
 import torchvision
 
 from models.vanilla_vae_v2 import VanillaVAE
-from endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES
+from phase3_endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES
 
 LAMBDA_DIV_TEST  = 10.0
 TEST_CLASSES     = [0, 13]   # letter, resume

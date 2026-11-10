@@ -1,5 +1,5 @@
 import sys, os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 import torch
 import torch.nn.functional as F
@@ -30,7 +30,7 @@ DISC_UPDATE_FREQ = 5  # same as before
 WANDB_PROJECT  = "tfg-stamps-vae"
 WANDB_RUN_NAME = "vae-gan-finetune"
 
-ROOT       = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT       = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 VAE_CKPT   = os.path.join(ROOT, "vae_gan_best.pt")
 DISC_CKPT  = os.path.join(ROOT, "disc_gan_best.pt")
 

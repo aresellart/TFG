@@ -1,14 +1,14 @@
 import sys, os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 import torch
 import matplotlib.pyplot as plt
 
 from models.vanilla_vae_v2 import VanillaVAE
 from common.stamps_dataset import get_dataloader
-from autoencoder_v3.config_v3 import DATA_PATH, LATENT_DIM, IMAGE_SIZE
+from phase1_generative.vaegan.config_v3 import DATA_PATH, LATENT_DIM, IMAGE_SIZE
 
-ROOT       = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT       = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 MODEL_PATH = os.path.join(ROOT, "vae_gan_finetune_best.pt")
 
 device = torch.device("cpu")

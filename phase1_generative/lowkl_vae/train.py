@@ -3,9 +3,9 @@ import torch.optim as optim
 import wandb
 
 from models.vanilla_vae import VanillaVAE
-from datasets.stamps_dataset import get_dataloader
-from tfg_stamps.autoencoder.utils import vae_loss
-import tfg_stamps.autoencoder.config as config
+from common.stamps_dataset import get_dataloader
+from phase1_generative.lowkl_vae.utils import vae_loss
+import phase1_generative.lowkl_vae.config as config
 
 """""
 def main():
@@ -98,9 +98,9 @@ import torch.optim as optim
 import wandb
 
 from models.vanilla_vae import VanillaVAE
-from datasets.stamps_dataset import get_dataloader
-from tfg_stamps.autoencoder.utils import vae_loss
-import tfg_stamps.autoencoder.config as config
+from common.stamps_dataset import get_dataloader
+from phase1_generative.lowkl_vae.utils import vae_loss
+import phase1_generative.lowkl_vae.config as config
 
 
 def main():

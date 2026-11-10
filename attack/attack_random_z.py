@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 from models.model_resnet50 import Model
 from models.vanilla_vae import VanillaVAE
-from patch_utils import paste_patch, preprocess_document
+from common.patch_utils import paste_patch, preprocess_document
 import config
 # WE ARE GOING TO TRY THE ATTACK WITH SAMPLING Z RANDOMLY FROM THE AUTOENCODER LATENT SPACE, INSTEAD OF USING THE ENCODED Z OF THE ORIGINAL IMAGE. THIS SHOULD GIVE US A BASELINE OF HOW WELL THE ATTACK CAN PERFORM WITHOUT ANY GUIDANCE FROM THE ORIGINAL IMAGE.import sys, os
 
@@ -60,7 +60,7 @@ print("Models loaded and frozen")
 
 # ── Load dataset and correct image list ───────────────────────────────────────
 dataset = load_from_disk(DATASET_PATH)
-with open(os.path.join(ROOT, "correct_images.json")) as f:
+with open(os.path.join(ROOT, "common", "correct_images.json")) as f:
     correct_images = json.load(f)
 print("Dataset loaded")
 

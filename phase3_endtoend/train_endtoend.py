@@ -12,7 +12,7 @@ Nothing gets updated except G_c weights.
 ResNet and Discriminator are completely frozen.
 
 Usage:
-    python3 attack/train_endtoend.py
+    python3 phase3_endtoend/train_endtoend.py
 """
 
 import sys, os
@@ -30,8 +30,8 @@ from datasets import load_from_disk
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator  import Discriminator
 from models.model_resnet50 import Model
-from attack.patch_utils    import paste_patch, preprocess_document
-from endtoend.config_endtoend import (
+from common.patch_utils    import paste_patch, preprocess_document
+from phase3_endtoend.config_endtoend import (
     ROOT, DATASET_PATH, CORRECT_JSON,
     VAE_PATH, DISC_PATH, RESNET_PATH, RESULTS_DIR,
     LATENT_DIM, PATCH_SIZE, PATCH_POS,

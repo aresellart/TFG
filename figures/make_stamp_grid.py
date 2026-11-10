@@ -11,14 +11,14 @@ Usage:
 """
 
 import sys, os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import torch
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 from models.vanilla_vae_v2 import VanillaVAE
-from endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES, RESULTS_DIR
+from phase3_endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES, RESULTS_DIR
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 # Pick a representative subset of classes to display — edit as desired.

@@ -12,7 +12,7 @@ from datasets import load_from_disk
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.model_resnet50 import Model
-from patch_utils import paste_patch, preprocess_document
+from common.patch_utils import paste_patch, preprocess_document
 
 CLASSES = [
     "letter", "memo", "email", "filefolder", "form",
@@ -50,7 +50,7 @@ for p in vae.parameters():
     p.requires_grad = False
 
 dataset = load_from_disk(DATASET_PATH)
-with open(os.path.join(ROOT, "correct_images.json")) as f:
+with open(os.path.join(ROOT, "common", "correct_images.json")) as f:
     correct_images = json.load(f)
 
 normalize   = transforms.Normalize(

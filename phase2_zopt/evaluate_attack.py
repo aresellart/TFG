@@ -12,7 +12,7 @@ import numpy as np
 
 from models.model_resnet50 import Model
 from models.vanilla_vae import VanillaVAE
-from patch_utils import paste_patch, preprocess_document
+from common.patch_utils import paste_patch, preprocess_document
 import config
 
 CLASSES = [
@@ -52,7 +52,7 @@ print("Models loaded")
 
 # ── Load dataset and correct image list ───────────────────────────────────────
 dataset = load_from_disk(DATASET_PATH)
-with open(os.path.join(ROOT, "correct_images.json")) as f:
+with open(os.path.join(ROOT, "common", "correct_images.json")) as f:
     correct_images = json.load(f)
 print("Dataset loaded")
 

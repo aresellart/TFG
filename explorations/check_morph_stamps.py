@@ -8,7 +8,7 @@ compared to the original (no morph loss) stamps.
 
 Usage:
     cd /home/asellart/tfg_stamps
-    python3 endtoend/check_morph_stamps.py
+    python3 explorations/check_morph_stamps.py
 """
 
 import sys, os
@@ -18,7 +18,7 @@ import torch
 import torchvision
 
 from models.vanilla_vae_v2 import VanillaVAE
-from endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES
+from phase3_endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES
 
 LAMBDA_MORPH_TEST = 1.0
 TEST_CLASSES      = [0, 7, 13]

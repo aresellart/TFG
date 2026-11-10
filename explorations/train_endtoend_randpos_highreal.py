@@ -18,7 +18,7 @@ Results saved to: attack_results_endtoend_highreal_test/
 
 Usage:
     cd /home/asellart/tfg_stamps
-    python3 endtoend/train_endtoend_randpos_highreal.py
+    python3 explorations/train_endtoend_randpos_highreal.py
 """
 
 import sys, os
@@ -35,8 +35,8 @@ from datasets import load_from_disk
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator  import Discriminator
 from models.model_resnet50 import Model
-from attack.patch_utils    import preprocess_document
-from endtoend.config_endtoend import (
+from common.patch_utils    import preprocess_document
+from phase3_endtoend.config_endtoend import (
     ROOT, DATASET_PATH, CORRECT_JSON,
     VAE_PATH, DISC_PATH, RESNET_PATH,
     LATENT_DIM, PATCH_SIZE,

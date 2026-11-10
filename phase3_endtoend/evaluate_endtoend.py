@@ -10,7 +10,7 @@ For each target class:
   - Measure attack success rate (ASR)
 
 Usage:
-    python3 attack/evaluate_endtoend.py
+    python3 phase3_endtoend/evaluate_endtoend.py
 """
 
 import sys, os
@@ -26,8 +26,8 @@ import torchvision
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.model_resnet50 import Model
-from attack.patch_utils    import paste_patch, preprocess_document
-from endtoend.config_endtoend import (
+from common.patch_utils    import paste_patch, preprocess_document
+from phase3_endtoend.config_endtoend import (
     ROOT, DATASET_PATH, CORRECT_JSON,
     VAE_PATH, RESNET_PATH, RESULTS_DIR,
     LATENT_DIM, PATCH_SIZE, PATCH_POS,

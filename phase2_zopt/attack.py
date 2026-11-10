@@ -11,12 +11,12 @@ from tqdm import tqdm
 from models.model_resnet50 import Model
 from models.vanilla_vae import VanillaVAE
 #from attack.patch_utils import preprocess_document, paste_patch
-from patch_utils import preprocess_document, paste_patch
-import tfg_stamps.autoencoder.config as config
+from common.patch_utils import preprocess_document, paste_patch
+import phase1_generative.lowkl_vae.config as config
 
 # ── Config ────────────────────────────────────────────────────────────────────
 DATASET_PATH   = "/mnt/c/Users/aress/OneDrive/Escritorio/tfg_stamps/tfg_stamps/rvl_cdip_full"
-CORRECT_JSON   = "correct_images.json"
+CORRECT_JSON   = os.path.join("common", "correct_images.json")
 ROOT           = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CLASSES = [

@@ -11,7 +11,7 @@ import importlib.util
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.model_resnet50 import Model
-from patch_utils import paste_patch, preprocess_document
+from common.patch_utils import paste_patch, preprocess_document
 
 CLASSES = [
     "letter", "memo", "email", "filefolder", "form",
@@ -24,7 +24,7 @@ DATASET_PATH   = "/home/asellart/tfg_stamps/rvl_cdip_full"
 ROOT           = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 VAE_MODEL_PATH = os.path.join(ROOT, "vae_gan_best.pt")
 RESNET_PATH    = os.path.join(ROOT, "models", "rvl-resnet50.model")
-CORRECT_JSON   = os.path.join(ROOT, "correct_images.json")
+CORRECT_JSON   = os.path.join(ROOT, "common", "correct_images.json")
 
 LATENT_DIM     = 256
 BATCH_SIZE     = 64

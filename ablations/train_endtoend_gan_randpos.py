@@ -13,7 +13,7 @@ Purpose: ablation to compare VAE-GAN vs plain GAN as Phase 1.
 
 Usage:
     cd /home/asellart/tfg_stamps
-    python3 endtoend/train_endtoend_gan_randpos.py
+    python3 ablations/train_endtoend_gan_randpos.py
 """
 
 import sys, os
@@ -30,8 +30,8 @@ from datasets import load_from_disk
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator  import Discriminator
 from models.model_resnet50 import Model
-from attack.patch_utils    import preprocess_document
-from endtoend.config_endtoend import (
+from common.patch_utils    import preprocess_document
+from phase3_endtoend.config_endtoend import (
     ROOT, DATASET_PATH, CORRECT_JSON,
     RESNET_PATH,
     LATENT_DIM, PATCH_SIZE,

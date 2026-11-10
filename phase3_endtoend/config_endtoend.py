@@ -1,7 +1,7 @@
 # ── PATHS ─────────────────────────────────────────────────────────────────────
 ROOT          = "/home/asellart/tfg_stamps"
 DATASET_PATH  = "/home/asellart/tfg_stamps/rvl_cdip_full"
-CORRECT_JSON  = "/home/asellart/tfg_stamps/correct_images.json"
+CORRECT_JSON  = "/home/asellart/tfg_stamps/common/correct_images.json"
 VAE_PATH      = "/home/asellart/tfg_stamps/vae_gan_best.pt"
 DISC_PATH     = "/home/asellart/tfg_stamps/disc_gan_best.pt"
 RESNET_PATH   = "/home/asellart/tfg_stamps/models/rvl-resnet50.model"

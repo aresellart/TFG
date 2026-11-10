@@ -12,7 +12,7 @@ from torchvision import transforms
 
 from models.model_resnet50 import Model
 from models.vanilla_vae import VanillaVAE
-from patch_utils import paste_patch, preprocess_document
+from common.patch_utils import paste_patch, preprocess_document
 import config
 
 CLASSES = [
@@ -65,7 +65,7 @@ for p in vae.parameters():
     p.requires_grad = False
 
 dataset = load_from_disk(DATASET_PATH)
-with open(os.path.join(ROOT, "correct_images.json")) as f:
+with open(os.path.join(ROOT, "common", "correct_images.json")) as f:
     correct_images = json.load(f)
 
 normalize = transforms.Normalize(

@@ -7,7 +7,7 @@ visually against the original two-discriminator version.
 
 Usage:
     cd /home/asellart/tfg_stamps
-    python3 endtoend/check_singledisc_stamps.py
+    python3 phase3b_diagnostic/check_singledisc_stamps.py
 """
 
 import sys, os
@@ -17,7 +17,7 @@ import torch
 import torchvision
 
 from models.vanilla_vae_v2 import VanillaVAE
-from endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES
+from phase3_endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES
 
 TEST_CLASSES = [0, 7, 13]
 N_SAMPLES    = 8
