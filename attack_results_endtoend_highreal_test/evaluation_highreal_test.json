@@ -1,0 +1,8 @@
+{
+  "lambda_real": 0.3,
+  "per_class": {
+    "letter": 96.51741293532339,
+    "advertisement": 99.17412935323384,
+    "resume": 99.65174129353234
+  }
+}
