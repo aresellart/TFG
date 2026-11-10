@@ -8,7 +8,7 @@ import wandb
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator import Discriminator
-from datasets_local.stamps_dataset import get_dataloader
+from common.stamps_dataset import get_dataloader
 
 # ── Fine tune config ──────────────────────────────────────────────────────────
 DATA_PATH  = "/home/asellart/tfg_stamps/stamp_dataset_grayscale"

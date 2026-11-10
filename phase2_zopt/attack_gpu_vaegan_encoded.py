@@ -76,7 +76,7 @@ def get_document_batch(target_class, batch_size):
 def get_encoded_z():
     spec = importlib.util.spec_from_file_location(
         "stamps_dataset",
-        os.path.join(ROOT, "datasets_local", "stamps_dataset.py")
+        os.path.join(ROOT, "common", "stamps_dataset.py")
     )
     stamps_module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(stamps_module)

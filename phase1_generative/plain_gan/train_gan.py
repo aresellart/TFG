@@ -29,7 +29,7 @@ import wandb
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator import Discriminator
-from datasets_local.stamps_dataset import get_dataloader
+from common.stamps_dataset import get_dataloader
 from autoencoder_v3.config_v3 import (
     DATA_PATH, BATCH_SIZE, LATENT_DIM, IMAGE_SIZE,
     LR_VAE, LR_DISC, EPOCHS,

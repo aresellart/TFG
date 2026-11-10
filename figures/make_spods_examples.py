@@ -16,7 +16,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
-from datasets_local.stamps_dataset import get_dataloader
+from common.stamps_dataset import get_dataloader
 from autoencoder_v3.config_v3 import DATA_PATH, IMAGE_SIZE
 
 N_EXAMPLES = 6

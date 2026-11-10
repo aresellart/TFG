@@ -39,7 +39,7 @@ from tqdm import tqdm
 
 from models.vanilla_vae_v2 import VanillaVAE
 from models.discriminator  import Discriminator
-from datasets_local.stamps_dataset import get_dataloader
+from common.stamps_dataset import get_dataloader
 from endtoend.config_endtoend import ROOT, LATENT_DIM, CLASSES, RESULTS_DIR
 from autoencoder_v3.config_v3 import DATA_PATH, IMAGE_SIZE
 

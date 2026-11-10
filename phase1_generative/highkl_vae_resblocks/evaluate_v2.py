@@ -5,7 +5,7 @@ import torch
 import matplotlib.pyplot as plt
 
 from models.vanilla_vae_v2 import VanillaVAE
-from datasets_local.stamps_dataset import get_dataloader
+from common.stamps_dataset import get_dataloader
 from autoencoder_v2.config_v2 import DATA_PATH, LATENT_DIM, IMAGE_SIZE
 
 ROOT       = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
