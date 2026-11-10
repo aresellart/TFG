@@ -22,7 +22,6 @@ explorations/        things tried but not in the final pipeline (higher lambda_r
 figures/             figure scripts and the committed PDFs
 results/             committed result JSONs (copied from the server; original folder names kept)
 archive/             superseded / unused code (SSIM VAE, sampling tests, dataset sanity check)
-attack/              3 scripts whose role is still unclear (see docs/OPEN_QUESTIONS.md)
 docs/                FILE_MAP.md (old→new paths, roles), OBSERVATIONS.md, OPEN_QUESTIONS.md
 ```
 
@@ -80,3 +79,7 @@ Listed in [`docs/OBSERVATIONS.md`](docs/OBSERVATIONS.md); none were fixed. The m
 - Some hardcoded numbers in `figures/plot_*.py` do not match `results/`.
 
 Open questions about where some files belong are in [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md).
+
+## Note on folder numbering
+
+Folder numbers differ from the thesis, where the VAE-GAN is Phase 1 and the end-to-end attack is Phase 2. In this repo: `phase2_zopt/` is the z-optimisation baseline, `phase3_endtoend/` is the thesis Phase 2 (end-to-end), and `phase3b_diagnostic/` is its diagnostic-discriminator extension.
